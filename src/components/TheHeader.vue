@@ -25,4 +25,7 @@ header {
 div {
     text-align: center;
 }
+h1 {
+    color: #333;
+}
 </style>

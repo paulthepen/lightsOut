@@ -98,5 +98,8 @@ export default {
 </style>
 
 <style>
-* { margin: 0;}
+* { margin: 0; color: #eee;}
+    body {
+        background-color: #333;
+    }
 </style>

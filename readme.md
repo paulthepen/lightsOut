@@ -4,6 +4,8 @@ A simple implementation of the classic **Lights Out** puzzle game built with Vue
 
 ![screenshot](./screenshot.jpg)
 
+Play the game [here](https://paulthepen.github.io/lightsOut/)
+
 ## 🎮 How to Play
 
 - You are presented with a 3x3 grid of lights (on or off).
